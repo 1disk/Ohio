@@ -1,5 +1,6 @@
 import os
 import sys
+import time
 
 os.system("pkg install figlet")
 os.system("clear")
