@@ -2,6 +2,7 @@ import os
 import sys
 
 os.system("pkg install figlet")
+os.system("clear")
 
 os.system("figlet ohio")
 time.sleep(2)
