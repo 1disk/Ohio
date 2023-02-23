@@ -4,6 +4,8 @@ import sys
 os.system("pkg install figlet")
 os.system("clear")
 
+print("Welcome to")
+time.sleep(1)
 os.system("figlet ohio")
 time.sleep(2)
 print("Created by")
